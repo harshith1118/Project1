@@ -1,0 +1,109 @@
+{
+  "images": [
+    {
+      "width": 1152,
+      "height": 768,
+      "id": 0,
+      "file_name": "images\\fc282db6-Trafic.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Bike"
+    },
+    {
+      "id": 1,
+      "name": "Bus"
+    },
+    {
+      "id": 2,
+      "name": "Car"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        36.01976714053852,
+        240.71641791044786,
+        235.8166402225845,
+        117.90191897654557
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 27803.234408844357
+    },
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        302.9377753329001,
+        325.86780383795315,
+        173.58946358672645,
+        81.87633262260103
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 14212.868660405704
+    },
+    {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        709.0257636581025,
+        433.9445628997848,
+        355.37587117716356,
+        175.2153518123677
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 62267.30829393337
+    },
+    {
+      "id": 3,
+      "image_id": 0,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        0.0,
+        393.00639658848604,
+        152.32954932919927,
+        106.43923240938143
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 16213.840303866975
+    },
+    {
+      "id": 4,
+      "image_id": 0,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        551.8394988202456,
+        281.6545842217481,
+        94.98934811171017,
+        42.57569296375275
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 4044.2373200311995
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-08-17 17:09:03.316069"
+  }
+}
